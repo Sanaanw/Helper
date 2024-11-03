@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\Stack\Stack\bin\Debug\net8.0\Stackk.exe
+C:\Users\ASUS\OneDrive\Desktop\Stack\Stack\bin\Debug\net8.0\Stackk.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Stack\Stack\bin\Debug\net8.0\Stackk.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Stack\Stack\bin\Debug\net8.0\Stackk.dll
+C:\Users\ASUS\OneDrive\Desktop\Stack\Stack\bin\Debug\net8.0\Stackk.pdb
+C:\Users\ASUS\OneDrive\Desktop\Stack\Stack\obj\Debug\net8.0\Stackk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Stack\Stack\obj\Debug\net8.0\Stackk.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Stack\Stack\obj\Debug\net8.0\Stackk.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Stack\Stack\obj\Debug\net8.0\Stackk.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Stack\Stack\obj\Debug\net8.0\Stackk.dll
+C:\Users\ASUS\OneDrive\Desktop\Stack\Stack\obj\Debug\net8.0\refint\Stackk.dll
+C:\Users\ASUS\OneDrive\Desktop\Stack\Stack\obj\Debug\net8.0\Stackk.pdb
+C:\Users\ASUS\OneDrive\Desktop\Stack\Stack\obj\Debug\net8.0\Stackk.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Stack\Stack\obj\Debug\net8.0\ref\Stackk.dll

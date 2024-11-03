@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\Serialization and DeSerialization\Sreialization\bin\Debug\net8.0\Serialization and DeSerialization.exe
+C:\Users\ASUS\OneDrive\Desktop\Serialization and DeSerialization\Sreialization\bin\Debug\net8.0\Serialization and DeSerialization.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Serialization and DeSerialization\Sreialization\bin\Debug\net8.0\Serialization and DeSerialization.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Serialization and DeSerialization\Sreialization\bin\Debug\net8.0\Serialization and DeSerialization.dll
+C:\Users\ASUS\OneDrive\Desktop\Serialization and DeSerialization\Sreialization\bin\Debug\net8.0\Serialization and DeSerialization.pdb
+C:\Users\ASUS\OneDrive\Desktop\Serialization and DeSerialization\Sreialization\obj\Debug\net8.0\Serialization and DeSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Serialization and DeSerialization\Sreialization\obj\Debug\net8.0\Serialization and DeSerialization.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Serialization and DeSerialization\Sreialization\obj\Debug\net8.0\Serialization and DeSerialization.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Serialization and DeSerialization\Sreialization\obj\Debug\net8.0\Serialization and DeSerialization.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Serialization and DeSerialization\Sreialization\obj\Debug\net8.0\Serialization and DeSerialization.dll
+C:\Users\ASUS\OneDrive\Desktop\Serialization and DeSerialization\Sreialization\obj\Debug\net8.0\refint\Serialization and DeSerialization.dll
+C:\Users\ASUS\OneDrive\Desktop\Serialization and DeSerialization\Sreialization\obj\Debug\net8.0\Serialization and DeSerialization.pdb
+C:\Users\ASUS\OneDrive\Desktop\Serialization and DeSerialization\Sreialization\obj\Debug\net8.0\Serialization and DeSerialization.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Serialization and DeSerialization\Sreialization\obj\Debug\net8.0\ref\Serialization and DeSerialization.dll

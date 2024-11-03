@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\C#.Async\C#.Async\bin\Debug\net8.0\C#.Async.exe
+C:\Users\ASUS\OneDrive\Desktop\C#.Async\C#.Async\bin\Debug\net8.0\C#.Async.deps.json
+C:\Users\ASUS\OneDrive\Desktop\C#.Async\C#.Async\bin\Debug\net8.0\C#.Async.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\C#.Async\C#.Async\bin\Debug\net8.0\C#.Async.dll
+C:\Users\ASUS\OneDrive\Desktop\C#.Async\C#.Async\bin\Debug\net8.0\C#.Async.pdb
+C:\Users\ASUS\OneDrive\Desktop\C#.Async\C#.Async\obj\Debug\net8.0\C#.Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\C#.Async\C#.Async\obj\Debug\net8.0\C#.Async.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\C#.Async\C#.Async\obj\Debug\net8.0\C#.Async.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\C#.Async\C#.Async\obj\Debug\net8.0\C#.Async.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\C#.Async\C#.Async\obj\Debug\net8.0\C#.Async.dll
+C:\Users\ASUS\OneDrive\Desktop\C#.Async\C#.Async\obj\Debug\net8.0\refint\C#.Async.dll
+C:\Users\ASUS\OneDrive\Desktop\C#.Async\C#.Async\obj\Debug\net8.0\C#.Async.pdb
+C:\Users\ASUS\OneDrive\Desktop\C#.Async\C#.Async\obj\Debug\net8.0\C#.Async.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\C#.Async\C#.Async\obj\Debug\net8.0\ref\C#.Async.dll
