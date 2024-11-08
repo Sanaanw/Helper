@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\OneDrive\\Desktop\\C# for Sending Github\\Serialization and DeSerialization\\Sreialization\\Serialization and DeSerialization.csproj": {}
+    "C:\\Users\\ASUS\\OneDrive\\Desktop\\Extensions\\Extensions\\Extensions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\OneDrive\\Desktop\\C# for Sending Github\\Serialization and DeSerialization\\Sreialization\\Serialization and DeSerialization.csproj": {
+    "C:\\Users\\ASUS\\OneDrive\\Desktop\\Extensions\\Extensions\\Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C# for Sending Github\\Serialization and DeSerialization\\Sreialization\\Serialization and DeSerialization.csproj",
-        "projectName": "Serialization and DeSerialization",
-        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C# for Sending Github\\Serialization and DeSerialization\\Sreialization\\Serialization and DeSerialization.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Extensions\\Extensions\\Extensions.csproj",
+        "projectName": "Extensions",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Extensions\\Extensions\\Extensions.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C# for Sending Github\\Serialization and DeSerialization\\Sreialization\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Extensions\\Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -30,38 +30,39 @@ namespace Sreialization
             #endregion
 
             #region File/Directory Create/Delete  
-            //File / Directory create / Delete
+          //  File / Directory create / Delete
             path = @"C:\Users\ASUS\OneDrive\Desktop\Serialization\Sreialization\Data\Dir3\";
-           // if (!(Directory.Exists(path))) Directory.CreateDirectory(path);
-            //path = @"C:\Users\ASUS\OneDrive\Desktop\Serialization\Sreialization\Data\Dir3\File.txt";
-            //if (!(File.Exists(path))) File.Create(path);
-            //if ((File.Exists(path))) File.Delete(path);
-            //path = @"C:\Users\ASUS\OneDrive\Desktop\Serialization\Sreialization\Data\Dir3\";
-           // Directory.Delete(path, true);// Eger ici bosduse silir
-           // Directory.Delete(path);//icinin bos olub olmadigini nezere almir prosta silir
+            if (!(Directory.Exists(path))) Directory.CreateDirectory(path);
+            path = @"C:\Users\ASUS\OneDrive\Desktop\Serialization\Sreialization\Data\Dir3\File.txt";
+            if (!(File.Exists(path)))
+                using (FileStream fileStream = File.Create(path))
+            if ((File.Exists(path))) File.Delete(path);
+            path = @"C:\Users\ASUS\OneDrive\Desktop\Serialization\Sreialization\Data\Dir3\";
+            Directory.Delete(path, true);// Eger ici bosduse silir
+            Directory.Delete(path);//icinin bos olub olmadigini nezere almir prosta silir
             #endregion
 
             #region FileStream  FileReader   FileWriter
             //FileStream,FileReader,FileWriter 
             path = @"C:\Users\ASUS\OneDrive\Desktop\Serialization\Sreialization\Data\Dir1\File.txt";
-            //using (FileStream fileStream1 = new FileStream(path, FileMode.Open))//Her defe evvelki yazini silir yenisin yazir 
-            //{
-            //    using (StreamWriter streamWriter1 = new StreamWriter(fileStream1))
-            //    {
-            //        streamWriter1.Write("Hello");
-            //    }
-            //}
-            //using (FileStream fileStream2 = new FileStream(path, FileMode.Append))//Evvelki yazini silmeden yenisini add edir
-            //{
-            //    using (StreamWriter streamWriter2 = new StreamWriter(fileStream2))
-            //    {
-            //        streamWriter2.WriteLine("Hello123");
-            //    }
-            //}
-            ////Yalniz Idisposable implement eden classlari using ve ya close ede bilirik
-            //using (FileStream fileStream3 = new FileStream(path, FileMode.Open))
-            //using (StreamReader streamReader1 = new StreamReader(fileStream3))
-            //Console.WriteLine( streamReader1.ReadToEnd());
+            using (FileStream fileStream1 = new FileStream(path, FileMode.Open))//Her defe evvelki yazini silir yenisin yazir 
+            {
+                using (StreamWriter streamWriter1 = new StreamWriter(fileStream1))
+                {
+                    streamWriter1.Write("Hello");
+                }
+            }
+            using (FileStream fileStream2 = new FileStream(path, FileMode.Append))//Evvelki yazini silmeden yenisini add edir
+            {
+                using (StreamWriter streamWriter2 = new StreamWriter(fileStream2))
+                {
+                    streamWriter2.WriteLine("Hello123");
+                }
+            }
+            //Yalniz Idisposable implement eden classlari using ve ya close ede bilirik
+            using (FileStream fileStream3 = new FileStream(path, FileMode.Open))
+            using (StreamReader streamReader1 = new StreamReader(fileStream3))
+                Console.WriteLine(streamReader1.ReadToEnd());
             #endregion
 
             #region Serializer and DeSerializer(Xml and Json)
