@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.area{
+    margin: 100px auto;
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+}
+#first{
+    margin-left: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    cursor: pointer;
+}
+#second{
+    margin-left: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(225, 255, 0);
+    cursor: pointer;
+}
